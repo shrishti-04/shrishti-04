@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm very happy!! :)
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif"
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 <h3 align="left">Talk with me!! I'm kinda awesome:</h3>
 <p align="left">
