@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrishti Tiwari</h1>
-<h3 align="center">I'm an aspiring Data Analyst and I enjoy doing manipulation of data, data cleaning, data visualization such as Matplotlib, Seaborn etc. Apart from this I like to interact and communicate with different people. My hobbies are dance, drawing, painting, sports such as badminton, volleyball and throwball</h3>
+<h3 align="center">An aspiring Data Analyst and Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about soft skills
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm very happy!! :)
+
+<p>I'm an aspiring Data Analyst and I enjoy doing manipulation of data, data cleaning, data visualization such as Matplotlib, Seaborn etc. I'm also a well experienced Web Developer and have made lots of wesites. Apart from this I like to interact and communicate with different people. My hobbies are dance, drawing, painting, sports such as badminton, volleyball and throwball</p>
 
 <h3 align="left">Talk with me!! I'm kinda awesome:</h3>
 <p align="left">
