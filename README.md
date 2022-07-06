@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shrishti Tiwari</h1>
-<h3 align="center">Greetings everyone!! Myself Shrishti Tiwari and currently I'm doing computer engineering from Universal College of Engineering. I'm an aspiring Data Analyst and I enjoy doing manipulation of data, data cleaning, data visualization such as Matplotlib, Seaborn etc. Apart from this I like to interact and communicate with different people. My hobbies are dance, drawing, painting, sports such as badminton, volleyball and throwball</h3>
+<h3 align="center">I'm an aspiring Data Analyst and I enjoy doing manipulation of data, data cleaning, data visualization such as Matplotlib, Seaborn etc. Apart from this I like to interact and communicate with different people. My hobbies are dance, drawing, painting, sports such as badminton, volleyball and throwball</h3>
+
+
+- ✍ You can find my projects here <a href = 'https://github.com/shrishti-04'>github</a>
+- 🔭 I’m currently working on upgrading my skills.
+- 🌱 I’m currently learning Data Analytics
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about soft skills
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm very happy!! :)
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif"
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Talk with me!! I'm kinda awesome:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrishti-tiwari-6a99b9202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti-tiwari-6a99b9202" height="30" width="40" /></a>
 <a href="https://instagram.com/_la_charmante_.shrish._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_la_charmante_.shrish._" height="30" width="40" /></a>
