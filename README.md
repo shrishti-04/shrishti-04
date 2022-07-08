@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm very happy!! :)
 
-<p>I'm an aspiring Data Analyst and I enjoy doing manipulation of data, data cleaning, data visualization such as Matplotlib, Seaborn etc. I'm also a well experienced Web Developer and have made lots of wesites. Apart from this I like to interact and communicate with different people. My hobbies are dance, drawing, painting, sports such as badminton, volleyball and throwball</p>
+<p>I'm an aspiring Data Analyst and I enjoy doing manipulation of data, data cleaning, data visualization such as Matplotlib, Seaborn etc. I'm also a well experienced Web Developer and have made lots of websites. Apart from this I like to interact and communicate with different people. My hobbies are dance, drawing, painting, sports such as badminton, volleyball and throwball</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shrishti-04&&show_icons=true&title_color=ffb703&icon_color=ffb703&text_color=daf7dc&bg_color=0d1b2a">
 
