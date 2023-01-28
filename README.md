@@ -1,6 +1,6 @@
 <H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=I'm+Shrishti+Tiwari;I'm+an+aspiring+Data+Scientist;And+Full+Stack+Web+Developer" alt="Typing SVG" /></a></H1>
 
-<img align='right' alt='logo' src='logo.png'>
+<img align='right' width="400" alt='logo' src='logo.png'>
 
 - ✍ You can find my projects here <a href = 'https://www.kaggle.com/shrishtitiwari04'>Kaggle</a>
 - 🔭 I’m currently working on upgrading my skills.
