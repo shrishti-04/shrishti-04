@@ -22,7 +22,7 @@
 <a href="https://instagram.com/_.dreamycloud.04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".dreamycloud.04" height="30" width="40" /></a>
 <a href="https://twitter.com/Shrishtitiwar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="la_charmante.shrish._" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/shrishtitiwari04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Shrishti" height="30" width="40" /></a>
-<a href="https://leetcode.com/Shrishti04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Shrishti" height="30" width="40" /></a>
+<a href="https://leetcode.com/Shrishti04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Shrishti04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
