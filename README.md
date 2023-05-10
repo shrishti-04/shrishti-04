@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm very happy!! :)
 
-<p>I'm an aspiring Data Analyst and I enjoy doing manipulation of data, data cleaning, data visualization such as Matplotlib, Seaborn etc. I'm also a well experienced Web Developer and have made lots of websites. Apart from this I like to interact and communicate with different people. My hobbies are dance, drawing, painting, sports such as badminton, volleyball and throwball</p>
+<p>I'm an aspiring Data Scientist with a strong background in statistical modeling, machine learning, and data analysis. Proficient in programming languages such as Python, R, and SQL with experience in developing data-driven solutions to complex business problems.</p>
 
 <p>For me, finding insights is love...📈</p>
 
