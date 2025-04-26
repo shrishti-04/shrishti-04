@@ -32,6 +32,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/shrishti-04&show_icons=true&locale=en" alt="https://github.com/shrishti-04" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/shrishti-04&" alt="https://github.com/shrishti-04" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/shrishti-04&show_icons=true&locale=en&layout=compact" alt="https://github.com/shrishti-04" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishti-04&show_icons=true&locale=en" alt="shrishti-04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishti-04&" alt="shrishti-04" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrishti-04&show_icons=true&locale=en&layout=compact" alt="shrishti-04" /></p>
