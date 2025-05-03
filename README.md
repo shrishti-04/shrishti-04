@@ -36,6 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishti-04&" alt="shrishti-04" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrishti-04&show_icons=true&locale=en&layout=compact" alt="shrishti-04" /></p>
 
-![snake gif](https://github.com/shrishti-04/shrishti-04/blob/output/github-snake.svg)
+![snake gif](https://github.com/shrishti-04/shrishti-04/blob/output/github-snake-dark.svg)
 
 
