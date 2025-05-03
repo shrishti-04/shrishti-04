@@ -32,9 +32,17 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrishti-04&hide=html,css,sass,yara,hack,xslt,blade,php,python&theme=github_dark)](https://github.com/shrishti-04)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishti-04&show_icons=true&locale=en" alt="shrishti-04" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishti-04&" alt="shrishti-04" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrishti-04&show_icons=true&locale=en&layout=compact" alt="shrishti-04" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishti-04&show_icons=true&locale=en&theme=dark" alt="shrishti-04" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishti-04&theme=dark" alt="shrishti-04" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrishti-04&show_icons=true&locale=en&layout=compact&theme=dark" alt="shrishti-04" />
+</p>
 
 ![snake gif](https://github.com/shrishti-04/shrishti-04/blob/output/github-snake-dark.svg)
 
