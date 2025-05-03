@@ -1,4 +1,4 @@
-<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hola!!+I'm+Shrishti+Tiwari;I'm+a+Data+Scientist;And+Full+Stack+Web+Developer" alt="Typing SVG" /></a></H1>
+<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=96e072&width=435&lines=Hola!!+I'm+Shrishti+Tiwari;I'm+a+Data+Scientist;And+Full+Stack+Web+Developer" alt="Typing SVG" /></a></H1>
 
 <p>I am a passionate data professional with a keen interest in transforming raw data into meaningful insights with 2 years of experience in Python, SQL, Power BI, and Machine Learning Algorithms. I enjoy solving complex problems and uncovering trends that drive impactful decisions. My curiosity and analytical mindset push me to continuously learn and grow in the dynamic world of data.</p>
 
