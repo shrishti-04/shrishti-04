@@ -37,7 +37,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishti-04&theme=github_dark" alt="shrishti-04" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishti-04&theme=github_dark" alt="shrishti-04"/>
 </p>
 
 ![snake gif](https://github.com/shrishti-04/shrishti-04/blob/output/github-snake-dark.svg)
